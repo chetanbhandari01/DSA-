@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.o
+*.obj
+*.ilk
+*.pdb
+settings.json
+
