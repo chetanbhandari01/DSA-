@@ -39,5 +39,5 @@ int solve(int e,int f){
 int main(){
     memset(dp,-1,sizeof(dp));
     int e,f;
-    cout<<solve(3,5);
+    cout<<solve(2,6);
 }

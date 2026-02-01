@@ -5,4 +5,4 @@
 *.ilk
 *.pdb
 settings.json
-
+.vscode

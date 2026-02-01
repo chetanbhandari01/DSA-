@@ -9,4 +9,5 @@ int main(){
     dq.push_back(30);
     dq.pop_back();
     cout<<dq.front();
+    cout<<dq.back();
 }
