@@ -6,6 +6,4 @@
 *.pdb
 settings.json
 .vscode
-practicesheet.cpp
-main.cpp
-hello.cpp
+codeforces
